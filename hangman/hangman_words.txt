@@ -1,0 +1,1 @@
+cat, dog, fruit, rope, ball, bottle, mouse, keyboard, laptop, stand, phone, hand, card, deck, desk
